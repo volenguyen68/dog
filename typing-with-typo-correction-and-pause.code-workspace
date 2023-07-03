@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../typing-with-typo-correction-and-pause"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "typing-with-typo-correction-and-pause"
+	}
+}
